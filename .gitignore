@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+
+# Build output
+bin/
+obj/
+
+# User settings
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
